@@ -1,0 +1,57 @@
+body
+
+h1
+{
+background-color:pink;
+font-face:rockwell extra bold;
+font-size:80px;
+color:purple;
+border:solid;
+border-color:#3C1874;
+border-radius:80px;
+}
+
+a:link, a:visited 
+{
+color:Purple;
+background-color:#ff00bf;
+padding:15px;
+text-align:center;
+text-decoration:pink;
+display:inline-block;
+border-radius:25px;
+}
+
+
+h3 
+{
+background-color:gold;
+font-size:30px;
+text-align:center;
+color:black;
+font-family:'danion, cursive'
+pedding:15px;
+}
+
+a:link, a:visited 
+{
+color:Purple;
+background-color:orange;
+padding:15px;
+text-align:center;
+text-decoration:pink;
+display:inline-block;
+border-radius:25px;
+}
+
+h3
+{
+background-color:pink;
+font-face:calibri;
+font-size:30px;
+color:purple;
+text-allign:center;
+border:solid;
+border-color:purple;
+border-radius:50px;
+}
